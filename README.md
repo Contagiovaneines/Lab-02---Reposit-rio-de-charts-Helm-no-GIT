@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README - Repositório de Charts Helm no GIT
 
 Este guia fornece instruções básicas sobre como criar um repositório de charts Helm no GIT, baixar um chart (no exemplo, usaremos o WordPress) e enviar atualizações para o repositório git.
@@ -81,5 +80,3 @@ git add .
 git commit -m "repo central de helm"
 git push
 ```
-
->>>>>>> f2d8901 (meu primeiro chart)
